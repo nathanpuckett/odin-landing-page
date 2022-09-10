@@ -1,3 +1,3 @@
 # odin-landing-page
 
-Hello Odin!
+https://nathanpuckett.github.io/odin-landing-page/
